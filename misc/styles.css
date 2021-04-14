@@ -1,6 +1,4 @@
-body {
-  
-}
-p {
-  background-color: orange;
+.header {
+  background-color: black;
+  position: fixed;
 }
