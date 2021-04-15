@@ -6,6 +6,7 @@ h2 {
   border: black;
   border-width: 2px;
   border-style: solid;
+  text-align: center;
   font-size: 20px;
   font-family: scb;
 }
