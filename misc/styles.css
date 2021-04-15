@@ -3,6 +3,7 @@ body {
   background-color: #b0ffe6;
 }
 h2 {
+  padding: 0px;
   border: black;
   border-width: 2px;
   border-style: solid;
