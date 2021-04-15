@@ -6,6 +6,11 @@ h2 {
   border: black;
   border-width: 2px;
   border-style: solid;
+  font-family: scb;
+}
+@font-face {
+  font-family: scb;
+  src: url("fonts/SourceCodePro-Bold.otf");
 }
 .header {
   background-color: black;
