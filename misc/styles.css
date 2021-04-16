@@ -12,6 +12,7 @@ h2 {
   font-family: scb;
 }
 a {
+  padding: 0px;
   color: white;
   text-decoration: none;
   font-family: sc;
@@ -32,7 +33,6 @@ a {
   position: fixed;
 }
 .headertext {
-  float: center;
   text-align: center;
   font-size: 20px;
   font-family: scb;
