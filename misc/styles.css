@@ -13,8 +13,9 @@ h2 {
 }
 a {
   color: white;
-  style: none;
+  text-decoration: none;
   font-family: sc;
+  text-align: center;
 }
 @font-face {
   font-family: scb;
