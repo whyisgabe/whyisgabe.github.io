@@ -11,9 +11,18 @@ h2 {
   font-size: 20px;
   font-family: scb;
 }
+a {
+  color: white;
+  style: none;
+  font-family: 
+}
 @font-face {
   font-family: scb;
   src: url("fonts/SourceCodePro-Bold.otf");
+}
+@font-face {
+  font-family: sc;
+  src: url("fonts/SourceCodePro.otf");
 }
 .header {
   background-color: black;
