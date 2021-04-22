@@ -36,6 +36,7 @@ a {
   font-size: 20px;
   font-family: scb;
   text-align: center;
+  margin: 10px
 }
 .placeholderdiv {
   background-color: rgba(0, 0, 0, 1);
