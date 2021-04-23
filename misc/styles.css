@@ -67,3 +67,12 @@ a:hover {
   left: 50%;
   margin-left: -350px;
 }
+.projectitem {
+  padding: 0px;
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 18px;
+  text-align: center;
+  font-family: scb;
+}
