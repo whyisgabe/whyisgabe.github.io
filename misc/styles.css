@@ -75,4 +75,7 @@ a:hover {
   font-size: 18px;
   text-align: center;
   font-family: scb;
+  width: 500px;
+  left: 50%;
+  margin-left: -250px;
 }
