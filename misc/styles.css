@@ -2,6 +2,12 @@ body {
   margin: 0px;
   background-color: #b0ffe6;
 }
+h1 {
+  padding: 0px;
+  text-align: center;
+  font-size: 30px;
+  font-family: sc;
+}
 h2 {
   padding: 0px;
   border: black;
