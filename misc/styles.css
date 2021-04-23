@@ -1,3 +1,11 @@
+@font-face {
+  font-family: scb;
+  src: url("fonts/SourceCodePro-Bold.otf");
+}
+@font-face {
+  font-family: sc;
+  src: url("fonts/SourceCodePro.otf");
+}
 body {
   margin: 0px;
   background-color: #b0ffe6;
@@ -23,14 +31,6 @@ a {
   text-decoration: none;
   font-family: sc;
   font-size: 18px;
-}
-@font-face {
-  font-family: scb;
-  src: url("fonts/SourceCodePro-Bold.otf");
-}
-@font-face {
-  font-family: sc;
-  src: url("fonts/SourceCodePro.otf");
 }
 .header {
   background-color: black;
