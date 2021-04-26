@@ -63,9 +63,9 @@ a:hover {
 }
 .title {
   position: fixed;
-  width: 700px;
+  width: 750px;
   left: 50%;
-  margin-left: -350px;
+  margin-left: -375px;
 }
 .projectitem {
   padding: 0px;
