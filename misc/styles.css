@@ -69,7 +69,7 @@ b {
   margin-left: -300px;
 }
 .title {
-  position: fixed;
+  position: relative;
   width: 750px;
   left: 50%;
   margin-left: -375px;
@@ -81,7 +81,7 @@ b {
   border-style: solid;
   font-size: 18px;
   text-align: center;
-  position: fixed;
+  position: relative;
   font-family: scb;
   width: 500px;
   left: 50%;
