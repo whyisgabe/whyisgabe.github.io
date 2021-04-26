@@ -49,7 +49,7 @@ a:hover {
   margin: 10px
 }
 .placeholderdiv {
-  background-color: rgba(0, 0, 0, 1);
+  background-color: rgba(0, 0, 0, 0);
 }
 .banner {
   background-color: black;
