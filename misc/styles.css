@@ -71,9 +71,9 @@ b {
 }
 .title {
   position: relative;
-  width: 750px;
+  width: 800px;
   left: 50%;
-  margin-left: -375px;
+  margin-left: -400px;
 }
 .projectitem {
   padding: 0px;
@@ -84,7 +84,7 @@ b {
   text-align: center;
   position: relative;
   font-family: scb;
-  width: 500px;
+  width: 750px;
   left: 50%;
-  margin-left: -250px;
+  margin-left: -375px;
 }
