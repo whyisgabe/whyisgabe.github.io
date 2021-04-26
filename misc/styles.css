@@ -1,4 +1,8 @@
 @font-face {
+  font-family: scbb;
+  src: url("fonts/SourceCodePro-Black.otf");
+}
+@font-face {
   font-family: scb;
   src: url("fonts/SourceCodePro-Bold.otf");
 }
@@ -35,6 +39,9 @@ a {
 a:hover {
   cursor: pointer;
   background-color: rgb(50, 50, 50);
+}
+b {
+  font-family: scbb;
 }
 .header {
   background-color: black;
