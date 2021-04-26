@@ -48,6 +48,7 @@ b {
   width: 100%;
   position: fixed;
   text-aligh: center;
+  z-index: 3;
 }
 .headertext {
   font-size: 20px;
