@@ -49,9 +49,10 @@ img {
   border-width: 2px;
   border-style: solid;
   position: relative;
-  width: 500px;
+  width: 300px;
+  height: auto;
   left: 50%;
-  margin: -250px;
+  margin-left: -150px;
 }
 .header {
   background-color: black;
