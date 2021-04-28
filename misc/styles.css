@@ -54,6 +54,14 @@ img {
   left: 50%;
   margin-left: -150px;
 }
+#newprojectbanner {
+  font-size: 30px;
+  color: black;
+}
+#newprojectbanner:hover {
+  color: white;
+  background-color: black;
+}
 .header {
   background-color: black;
   width: 100%;
