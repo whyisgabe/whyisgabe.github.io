@@ -55,12 +55,21 @@ img {
   margin-left: -150px;
 }
 #newprojectbanner {
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  position: relative;
+  with: 700px;
+  height: auto;
+  left: 50%;
+  margin-left: - 350;
   font-size: 20px;
   color: black;
 }
 #newprojectbanner:hover {
   color: white;
   background-color: black;
+  cursor: pointer;
 }
 .header {
   background-color: black;
