@@ -101,3 +101,12 @@ img {
   margin-left: -375px;
   margin-bottom: 5px;
 }
+.projectlink {
+  font-family: sc;
+  color: black;
+  font-size: 20px;
+}
+.projectlink:hover {
+  cursor: pointer;
+  background-color: #5effcc
+}
