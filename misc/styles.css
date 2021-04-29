@@ -59,10 +59,10 @@ img {
   border-width: 2px;
   border-style: solid;
   position: relative;
-  with: 700px;
+  with: 750px;
   height: auto;
   left: 50%;
-  margin-left: - 350;
+  margin-left: -375px;
   font-size: 20px;
   color: black;
 }
