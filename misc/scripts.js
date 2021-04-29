@@ -3,4 +3,7 @@ function newestProject() {
 }
 
 var newestproject = "Western Geography Country Project";
-document.GetElementById("newprojectbanner").innerHTML = "Check out my newest project: " + newestproject;
+
+window.onload = function() {
+  document.getElementById("newestbanner").innerHTML = "Check out " + newestproject; 
+}
