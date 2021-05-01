@@ -5,5 +5,5 @@ function newestProject() {
 var newestproject = "Western Geography Country Project";
 
 window.onload = function() {
-  document.getElementById("newestbanner").innerHTML = "Check out " + newestproject; 
+  document.getElementById("newestbanner").innerHTML = "Check out my newest project: " + newestproject + "!";
 }
