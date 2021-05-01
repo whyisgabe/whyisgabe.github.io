@@ -54,7 +54,7 @@ img {
   left: 50%;
   margin-left: -150px;
 }
-.newprojectbanner {
+/*.newprojectbanner {
   border: black;
   border-width: 2px;
   border-style: solid;
@@ -67,7 +67,7 @@ img {
   color: white;
   background-color: black;
   cursor: pointer;
-}
+}*/
 .header {
   background-color: black;
   width: 100%;
