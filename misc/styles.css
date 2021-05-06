@@ -20,6 +20,7 @@ h1 {
   text-align: center;
   font-size: 30px;
   font-family: sc;
+  color: white;
 }
 h2 {
   padding: 0px;
@@ -29,6 +30,7 @@ h2 {
   text-align: center;
   font-size: 20px;
   font-family: scb;
+  color: white;
 }
 a {
   padding: 0px;
@@ -36,6 +38,7 @@ a {
   text-decoration: none;
   font-family: sc;
   font-size: 18px;
+  color: white;
 }
 a:hover {
   cursor: pointer;
@@ -59,7 +62,7 @@ img {
   position: relative;
   width: 100%;
   height: auto;
-  color: black;
+  color: white;
   padding: 0px;
   border: black;
   border-width: 2px;
@@ -79,12 +82,14 @@ img {
   position: fixed;
   text-aligh: center;
   z-index: 3;
+  color: white;
 }
 .headertext {
   font-size: 20px;
   font-family: scb;
   text-align: center;
-  margin: 10px
+  margin: 10p;
+  color: white;
 }
 .placeholderdiv {
   background-color: rgba(0, 0, 0, 0);
@@ -98,12 +103,14 @@ img {
   width: 600px;
   left: 50%;
   margin-left: -300px;
+  color: white;
 }
 .title {
   position: relative;
   width: 800px;
   left: 50%;
   margin-left: -400px;
+  color: white;
 }
 .projectitem {
   padding: 0px;
@@ -112,7 +119,7 @@ img {
   border-style: solid;
   font-size: 18px;
   text-align: center;
-  color: black;
+  color: white;
   position: relative;
   font-family: scb;
   width: 750px;
@@ -122,7 +129,7 @@ img {
 }
 .projectlink {
   font-family: sc;
-  color: black;
+  color: white;
   font-size: 20px;
 }
 .projectlink:hover {
