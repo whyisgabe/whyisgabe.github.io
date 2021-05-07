@@ -39,6 +39,7 @@ a {
   font-family: sc;
   font-size: 18px;
   color: white;
+  border-radius: 5px;
 }
 a:hover {
   cursor: pointer;
@@ -89,7 +90,6 @@ img {
   font-size: 20px;
   font-family: scb;
   text-align: center;
-  border-radius: 5px;
   margin: 10px;
   color: white;
 }
