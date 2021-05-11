@@ -59,6 +59,17 @@ img {
   left: 50%;
   margin-left: -150px;
 }
+#contextmenu {
+  width: 50px;
+  height: 250px;
+  position: fixed;
+  left: 1;
+  top: 1;
+  margin-left: -55px;
+  margin-top: -255px;
+  background-color: grey;
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5);
+}
 .newprojectbanner {
   position: relative;
   width: 100%;
