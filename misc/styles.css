@@ -131,8 +131,7 @@ img {
   margin-bottom: 5px;
 }
 .projectitem:hover {
-  box-shadow: 3px 3px 4px rgb(0, 0, 0);
-  box-shadow: -3px -3px 4px rgb(0, 0, 0);
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5)
 }
 .projectlink {
   font-family: sc;
