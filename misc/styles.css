@@ -63,8 +63,8 @@ img {
   width: 50px;
   height: 250px;
   position: fixed;
-  left: 1;
-  top: 1;
+  left: 100%;
+  top: 100%;
   margin-left: -55px;
   margin-top: -255px;
   background-color: grey;
