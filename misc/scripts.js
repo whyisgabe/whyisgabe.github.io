@@ -7,3 +7,13 @@ var newestproject = "Western Geography Country Project";
 window.onload = function() {
   document.getElementById("newestbanner").innerHTML = "Check out my newest project: " + newestproject + "!";
 }
+
+var testcode = "eduHMS2021";
+
+function checkCode(input) {
+  if input == testcode then {
+    return true;
+  else {
+    return false;  
+  }
+}
