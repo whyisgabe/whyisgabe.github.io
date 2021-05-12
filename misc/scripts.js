@@ -11,7 +11,7 @@ window.onload = function() {
 var testcode = "eduHMS2021";
 
 function checkCode() {
-  var input = document.getElementById("testinput").innerHTML;
+  var input = document.getElementById("testinput").value;
   if (input == testcode) {
     window.location = "https://www.google.com";
   }
