@@ -10,10 +10,9 @@ window.onload = function() {
 
 var testcode = "eduHMS2021";
 
-function checkCode(input) {
-  if input == testcode then {
-    return true;
-  else {
-    return false;  
+function checkCode() {
+  var input = document.getElementById("testinput").innerHTML;
+  if (input == testcode) {
+    window.location = "https://www.google.com";
   }
 }
