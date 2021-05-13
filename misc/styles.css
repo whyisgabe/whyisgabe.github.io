@@ -137,6 +137,10 @@ img {
   left: 50%;
   margin-left: -300px;
   color: white;
+  border: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
 }
 .title {
   position: relative;
