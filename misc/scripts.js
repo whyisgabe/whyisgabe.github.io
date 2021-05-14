@@ -8,7 +8,7 @@ window.onload = function() {
   document.getElementById("newestbanner").innerHTML = "Check out my newest project: " + newestproject + "!";
 }
 
-var testcode = "eduHMS2021";
+var testcode = "testing";
 
 function checkCode() {
   var input = document.getElementById("testinput").value;
