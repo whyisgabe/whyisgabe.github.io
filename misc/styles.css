@@ -149,6 +149,22 @@ img {
   margin-left: -400px;
   color: white;
 }
+.paragraph {
+  padding: 0px;
+  border: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  position: relative;
+  font-family: scb;
+  width: 750px;
+  left: 50%;
+  margin-left: -375px;
+  margin-bottom: 5px;
+}
 .projectitem {
   padding: 0px;
   border: white;
