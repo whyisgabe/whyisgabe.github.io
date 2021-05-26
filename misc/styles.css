@@ -180,6 +180,7 @@ img {
   width: 750px;
   left: 50%;
   margin-left: -375px;
+  margin-top: 5px;
   margin-bottom: 5px;
 }
 .projectitem:hover {
