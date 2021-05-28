@@ -65,6 +65,16 @@ img {
   left: 50%;
   margin-left: -150px;
 }
+table {
+  border: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  border-collapse: collapse;
+  color: white;
+  font-size: 18px;
+  font-family: scb;
+}
 #extras {
   width: 50px;
   height: 250px;
