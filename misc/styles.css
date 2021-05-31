@@ -75,11 +75,6 @@ table {
   font-family: scb;
   text-align: center;
 }
-.tableRow {
-  border: white;
-  border-top-width: 2px;
-  border-style: solid;
-}
 #extras {
   width: 50px;
   height: 250px;
@@ -205,4 +200,9 @@ table {
   font-family: sc;
   color: white;
   font-size: 20px;
+}
+.tableColumn {
+  float: left;
+  width: 50%;
+  padding: 5px;
 }
