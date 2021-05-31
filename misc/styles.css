@@ -73,6 +73,12 @@ table {
   color: white;
   font-size: 18px;
   font-family: scb;
+  text-align: center;
+}
+#tableRow {
+  border: white;
+  border-top-width: 2px;
+  border-style: solid;
 }
 #extras {
   width: 50px;
