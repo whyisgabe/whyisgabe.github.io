@@ -89,14 +89,16 @@ table {
   border-width: 2px;
   border-style: solid;
   border-radius: 5px;
-  color: white;
-  font-size: 18px;
-  font-family: scb;
-  text-align: center;
   position: relative;
   width: 700px;
   left: 50%;
   margin-left: -350px;
+}
+th {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  font-family: scb;
 }
 #extras {
   width: 50px;
