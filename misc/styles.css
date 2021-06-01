@@ -93,6 +93,10 @@ table {
   font-size: 18px;
   font-family: scb;
   text-align: center;
+  position: relative;
+  width: 700px;
+  left: 50%;
+  margin-left: -350;
 }
 #extras {
   width: 50px;
@@ -219,13 +223,4 @@ table {
   font-family: sc;
   color: white;
   font-size: 20px;
-}
-.tableColumn {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-.tableRow {
-  margin-left: -5px;
-  margin-right: -5px;
 }
