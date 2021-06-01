@@ -68,6 +68,7 @@ p {
   border: white;
   border-width: 1px;
   border-radius: 5px;
+  position: relative;
   width: 600px;
   left: 50%;
   margin-left: -300px;
