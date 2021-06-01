@@ -3,6 +3,10 @@
   src: url("fonts/SourceCodePro-Black.otf");
 }
 @font-face {
+  font-family: sci;
+  src: url("fonts/SourceCodePro-It.otf");
+}
+@font-face {
   font-family: scb;
   src: url("fonts/SourceCodePro-Bold.otf");
 }
@@ -53,6 +57,17 @@ a:hover {
 }
 b {
   font-family: scbb;
+}
+i {
+  font-family: sci;
+}
+p {
+  text-align: center;
+  font-family: sc;
+  color: white;
+  border: white;
+  border-width: 1px;
+  border-radius: 5px;
 }
 img {
   padding: 2px;
