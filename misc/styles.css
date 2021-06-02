@@ -94,12 +94,6 @@ table {
   left: 50%;
   margin-left: -350px;
 }
-th {
-  color: white;
-  text-align: center;
-  font-size: 18px;
-  font-family: scb;
-}
 #extras {
   width: 50px;
   height: 250px;
