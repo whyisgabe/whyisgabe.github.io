@@ -104,6 +104,9 @@ tr, th {
   font-family: sc;
   font-size: 18px;
 }
+th {
+  width: 350px;
+}
 #extras {
   width: 50px;
   height: 250px;
