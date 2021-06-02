@@ -93,6 +93,12 @@ table {
   width: 700px;
   left: 50%;
   margin-left: -350px;
+  border-collapse: collapse;
+}
+tr, th {
+  color: white;
+  font-family: sc;
+  font-size: 18px;
 }
 #extras {
   width: 50px;
